@@ -26,7 +26,7 @@ The **detailed description** of each column in the dataset can be found [here](D
 - **Chit funds** operate with a defined start date and a duration that typically corresponds to the number of participants. Members contribute regular installments into a common pool. Each month, a unique **reverse auction** is conducted, where participants compete for a lump sum called the **"Prize Money."** The winner is the member who agrees to forgo the largest portion of their future contributions in exchange for the immediate payout.
 - The remaining pool, after deducting a small management fee, is distributed as a **dividend** among all members. This process repeats monthly, ensuring each member has an opportunity to access a larger upfront amount during the chit's duration. Essentially, chit funds provide a way to **borrow against your future savings** while also earning returns on the pooled contributions.
 
-![Chit Processl](Image/age_distribution.png)
+![Chit Processl](Image/chit-process.png)
 
 **Key roles in a Chit fund**
 1.  **The Winning Bidder**
